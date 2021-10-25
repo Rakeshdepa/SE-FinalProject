@@ -1,0 +1,7 @@
+100 * 100:          0   two player
+600 * 66:          402   two player
+250 * 300:          806   two player
+250 * 300:          308   two player
+600 * 600:          530   two player
+600 * 600:          255   two player
+600 * 700:          442   two player
